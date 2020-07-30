@@ -1,7 +1,7 @@
 # 3D_Model_Display
 This is basic webpage that display 3D model of product for marketing. It uses javascript's popular library called Three.js
 
-# Demo - 
+# Demo
 
 https://dustan-3d.netlify.app/
 
@@ -12,7 +12,7 @@ https://dustan-3d.netlify.app/
 
 Sorry for Inconvenience it will take time to load the website due to the heavy size of model.
 
-# Image - 
+# Image 
 
-<img src="" alt=""/>
+<img src="Screenshot_2020-07-30 Document.png" alt="index.html"/>
 
