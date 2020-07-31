@@ -10,7 +10,7 @@ https://dustan-3d.netlify.app/
 
 
 
-#### Sorry for Inconvenience it will take time to load the website due to the heavy size of model.
+#### Sorry for Inconvenience it will take time to load the website due to the heavy size of model.In the mean time you can watch the demo picture of the website.
 
 # Image 
 
